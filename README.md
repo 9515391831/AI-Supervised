@@ -14,5 +14,7 @@ data.
 
 <img src='https://miro.medium.com/max/954/1*HKJTVHXyTBsR-3ljuBL6qQ.png'>
 
+<img src='http://en.proft.me/media/science/ml_svlw.jpg'>
+
 # Regression
 
