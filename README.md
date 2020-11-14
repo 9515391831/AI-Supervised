@@ -40,8 +40,14 @@ The classification predictive modeling is the task of approximating the mapping 
 
 <ul>
   <li><b>Lazy Learners</b> – Lazy learners simply store the training data and wait until a testing data appears. The classification is done using the most related data in the stored training data. They have more predicting time compared to eager learners. 
+    
    Eg – k-nearest neighbor, case-based reasoning.</li>
   
   <li><b>Eager Learners</b> – Eager learners construct a classification model based on the given training data before getting data for predictions. It must be able to commit to a single hypothesis that will work for the entire space. Due to this, they take a lot of time in training and less time for a prediction. 
   Eg – Decision Tree, Naive Bayes, Artificial Neural Networks.</li>
+  
 </ul>
+
+<h3>Classification algorithms</h3>
+
+<img src='https://serokell.io/files/fx/fxpez2t8.7_(4)_(1).jpg'>
