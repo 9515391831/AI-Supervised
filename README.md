@@ -13,3 +13,6 @@ new input data (x) that you can predict the output variables (Y) for that
 data.
 
 <img src='https://miro.medium.com/max/954/1*HKJTVHXyTBsR-3ljuBL6qQ.png'>
+
+# Regression
+
