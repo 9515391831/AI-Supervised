@@ -24,6 +24,8 @@ Briefly, the goal of regression model is to build a mathematical equation that d
 
 <img src='https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Regression_Type.png'>
 
+<h3>Types of regression</h3>
+
 <img src='https://static.javatpoint.com/tutorial/machine-learning/images/types-of-regression.png'>
 
 <img src='https://www.wallstreetmojo.com/wp-content/uploads/2019/11/Regression.png'>
