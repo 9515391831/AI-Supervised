@@ -35,3 +35,13 @@ Briefly, the goal of regression model is to build a mathematical equation that d
 Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories.
 
 The classification predictive modeling is the task of approximating the mapping function from input variables to discrete output variables. The main goal is to identify which class/category the new data will fall into.
+
+<h3>Types Of Learners In Classification</h3>
+
+<ul>
+  <li><b>Lazy Learners</b> – Lazy learners simply store the training data and wait until a testing data appears. The classification is done using the most related data in the stored training data. They have more predicting time compared to eager learners. 
+   Eg – k-nearest neighbor, case-based reasoning.</li>
+  
+  <li><b>Eager Learners</b> – Eager learners construct a classification model based on the given training data before getting data for predictions. It must be able to commit to a single hypothesis that will work for the entire space. Due to this, they take a lot of time in training and less time for a prediction. 
+  Eg – Decision Tree, Naive Bayes, Artificial Neural Networks.</li>
+</ul>
