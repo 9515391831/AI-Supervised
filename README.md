@@ -51,3 +51,7 @@ The classification predictive modeling is the task of approximating the mapping 
 <h3>Classification algorithms</h3>
 
 <img src='https://serokell.io/files/fx/fxpez2t8.7_(4)_(1).jpg'>
+
+<h3>Steps for classification</h3>
+
+<img src='https://blogvaronis2.wpengine.com/wp-content/uploads/2020/07/5-data-classification-process.png'>
