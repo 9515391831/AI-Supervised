@@ -44,6 +44,7 @@ The classification predictive modeling is the task of approximating the mapping 
    Eg – k-nearest neighbor, case-based reasoning.</li>
   
   <li><b>Eager Learners</b> – Eager learners construct a classification model based on the given training data before getting data for predictions. It must be able to commit to a single hypothesis that will work for the entire space. Due to this, they take a lot of time in training and less time for a prediction. 
+  
   Eg – Decision Tree, Naive Bayes, Artificial Neural Networks.</li>
   
 </ul>
