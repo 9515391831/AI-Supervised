@@ -60,3 +60,7 @@ The classification predictive modeling is the task of approximating the mapping 
 <h3>Steps for classification</h3>
 
 <img src='https://blogvaronis2.wpengine.com/wp-content/uploads/2020/07/5-data-classification-process.png'>
+
+<h2>Total ML Algorithms</h2>
+
+<img src='https://s3.amazonaws.com/MLMastery/MachineLearningAlgorithms.png?__s=r6vf17xp60nq7nlrsau8'>
